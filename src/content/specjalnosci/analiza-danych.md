@@ -12,6 +12,8 @@ poziom: studia I i II stopnia
 poziom_en: first- and second-cycle studies
 opis: "Statystyka matematyczna, modele liniowe, uczenie maszynowe i metody analizy dużych zbiorów danych, a do tego programowanie w R, Pythonie i SQL."
 opis_en: "Mathematical statistics, linear models, machine learning and methods for analysing large data sets, together with programming in R, Python and SQL."
+haslo: "Od danych do wniosków"
+haslo_en: "From data to conclusions"
 zaklad: statystyka
 opiekunowie:
 - imie_nazwisko: Małgorzata Bogdan

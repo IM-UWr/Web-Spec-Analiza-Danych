@@ -1,0 +1,54 @@
+{
+  "kierunek": "matematyka",
+  "poziom": "studia I i II stopnia",
+  "poziom_en": "first- and second-cycle studies",
+  "opis": "Statystyka matematyczna, modele liniowe, uczenie maszynowe i metody analizy dużych zbiorów danych, a do tego programowanie w R, Pythonie i SQL.",
+  "opis_en": "Mathematical statistics, linear models, machine learning and methods for analysing large data sets, together with programming in R, Python and SQL.",
+  "haslo": "Od danych do wniosków",
+  "haslo_en": "From data to conclusions",
+  "skrot": "AD",
+  "zaklad": "statystyka",
+  "opiekunowie": [
+    {
+      "imie_nazwisko": "Małgorzata Bogdan"
+    },
+    {
+      "imie_nazwisko": "Grzegorz Wyłupek"
+    }
+  ],
+  "seminaria": [
+    "statystyka"
+  ],
+  "wygaszana": false,
+  "kolejnosc": 1,
+  "kafelek_dla_kogo": "Dla osób, które chcą łączyć matematykę z praktyczną analizą danych.",
+  "kafelek_dla_kogo_en": "For those who want to combine mathematics with practical data analysis.",
+  "kafelek_kariera": "Np. analityk danych (po I stopniu) lub Data Scientist (po II stopniu), także w przemyśle i startupach korzystających z narzędzi data science.",
+  "kafelek_kariera_en": "For example data analyst (after the first cycle) or Data Scientist (after the second cycle), including in industry and start-ups that rely on data science tools.",
+  "zrodla": [
+    "https://www.math.uni.wroc.pl/matematyka (sekcja „Specjalności” — lista specjalności i opiekunowie)",
+    "https://www.math.uni.wroc.pl/specjalnosci-0 (opiekunowie specjalności)",
+    "/pliki/studia/przewodnik-mt-lic.pdf (rozdz. III–IX, Tabele 2b–6, 7, 13; egzamin dyplomowy — rozdz. XI)",
+    "/pliki/studia/przewodnik-mt-mgr.pdf (rozdz. I–III, Tabele 2, 8, 9)",
+    "https://bip.uni.wroc.pl/download/attachment/52226/uchwala-nr-48_2026-senatu-uwr-z-2026-05-27-w-sprawie-programu-studiow-dla-kierunku-matematyka-stacjonarne-i-i-ii-stopnia.pdf (sylwetka absolwenta i potrzeby społeczno-gospodarcze I i II stopnia, treści programowe przedmiotów, plan II stopnia AD)",
+    "Katalog przedmiotów USOS (opisy i efekty uczenia się): 28-MT-S-LPrAnDaR, 28-MT-S-LPodStatPr, 28-MT-S-LBazDan, 28-MT-S-tModLin, 28-MT-S-TStatystyk, 28-MT-S-tZModLin, 28-MT-S-tAnDuZbDan, 28-MT-S-LPr2Py, 28-MT-S-tWnStat, 28-MT-S-tWielAnSt, 28-MT-S-tThFANLDataa, 28-MT-S-tStatLearn, 28-MT-S-qsemAD, 28-MT-S-L121, 28-MT-S-LModStZarz",
+    "/pliki/studia/stary-program-mt-mgr.pdf",
+    "/pliki/studia/zmiany2026.pdf (część A i D)",
+    "/pliki/studia/mgr21-ad-zakres.pdf",
+    "https://www.math.uni.wroc.pl/egzamin-magisterski",
+    "https://www.math.uni.wroc.pl/oferty-pracy (oferty pracy i staży 2022–2026)",
+    "https://www.math.uni.wroc.pl/news/wyniki-konkursu-na-najlepsza-prace-dyplomowa (2022)",
+    "https://www.math.uni.wroc.pl/news/wyniki-konkursu-na-najlepsza-prace-dyplomowa-0 (2023)",
+    "https://www.math.uni.wroc.pl/news/wyniki-konkursu-na-najlepsza-prace-dyplomowa-1 (2024)",
+    "Nowa strona: src/content/zaklady/statystyka.md, src/content/seminaria/statystyka.md, src/content/granty/ (2016/23/B/ST1/00454, 2017/25/B/ST1/00500, 2020/37/N/ST6/04070, 2021/43/O/ST6/02805)"
+  ],
+  "do_uzupelnienia": [
+    "Zakres egzaminu magisterskiego dla programu od 2026/27 — obecny dokument (mgr21-ad-zakres.pdf) dotyczy programu z 2019 r. i obejmuje m.in. przedmioty Statistical learning oraz Metody klasyfikacji i redukcji wymiaru; potwierdzić aktualność lub podmienić.",
+    "Przykładowe tematy prac — obecnie prace ze statystyki i analizy danych wyróżnione w konkursie WMI 2022–2024 (bez potwierdzenia, że autorzy realizowali specjalność AD); potwierdzić lub uzupełnić listą tematów od opiekunów (na listach tematów tem6/tem7 nie ma tematów pracowników Zakładu Statystyki).",
+    "Przykładowe przedmioty do wyboru — wybór redakcyjny z Tabel 8–9 przewodnika II stopnia; przewodnik nie podaje listy przedmiotów polecanych dla AD — do potwierdzenia przez opiekunów.",
+    "Seminaria przeglądowe dla AD w bieżącym roku — uzupełnić aktualną listę (w USOS jako przykład znaleziono tylko „Modele grafowe i wnioskowanie przyczynowe”, zima 2024/25).",
+    "Kariera — brak danych o losach absolwentów samej specjalności; ewentualnie uzupełnić o informacje od opiekunów (np. praktyki, współpraca z pracodawcami).",
+    "Akapit „Dla kogo” i kafelki „Co wyróżnia specjalność” — sformułowania redakcyjne na podstawie programu; do akceptacji przez opiekunów.",
+    "Brak osobnego dokumentu specjalności AD (takiego jak spec-matematyka-stosowana.pdf dla MS) — jeśli istnieje, dodać do Dokumentów."
+  ]
+}

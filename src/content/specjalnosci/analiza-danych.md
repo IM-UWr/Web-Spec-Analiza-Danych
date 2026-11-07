@@ -161,11 +161,11 @@ tresc_en: |
 
   ### Can I replace Foundations of practical statistics with another statistics course?
 
-  No. Students of some specialisations may replace this course with Statistics or Foundations of statistics, but this is not possible in the data analysis specialisation. Foundations of practical statistics is needed for Linear models in semester 5, which in turn is needed for Advanced linear models and Analysis of large data sets in semester 6.
+  **No.** Students of some specialisations may replace this course with Statistics or Foundations of statistics, but this is not possible in the data analysis specialisation. Foundations of practical statistics is needed for Linear models in semester 5, which in turn is needed for Advanced linear models and Analysis of large data sets in semester 6.
 
   ### Do I write a thesis in the first cycle?
 
-  No. First-cycle mathematics students do not write a thesis. The studies end with a written diploma examination covering Mathematical analysis 1–3, Linear algebra 1–2, Algebra 1, Differential equations 1 and Probability 1. You write a master's thesis in the second cycle.
+  **No.** First-cycle mathematics students do not write a thesis. The studies end with a written diploma examination covering Mathematical analysis 1–3, Linear algebra 1–2, Algebra 1, Differential equations 1 and Probability 1. You write a master's thesis in the second cycle.
 
   ### What does the master's examination look like in this specialisation?
 
